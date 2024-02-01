@@ -172,6 +172,7 @@
         border: 2px solid;
         padding: 3%;
         width: 20%;
+        overflow: hidden;
         position: absolute;
         left: 75%;
         bottom: 24%;
